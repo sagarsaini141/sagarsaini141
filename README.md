@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sagar_saini
-- Electronics and Commmunication Engineer.
-- Skills: FrontEnd Web Dev, Graphics Designer, UX/UI Designer.
+
 
 
 <!---
